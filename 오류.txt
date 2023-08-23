@@ -1,0 +1,1 @@
+[Linux] - vim 오류 Can't open file for writing / wq 에러 ( v )
